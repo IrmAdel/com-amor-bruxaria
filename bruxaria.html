@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Com amor, bruxaria</title>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+      <link rel="icon" type="image/png" sizes="512x512" href="favicon.png">
+  <meta property="og:title" content="Com amor, bruxaria" />
+<meta property="og:description" content="Explore textos, autores e documentos históricos da Teologia da Libertação." />
+<meta property="og:image" content="https://github.com/IrmAdel/Arquivo-da-Teologia-da-Liberta-o/blob/main/preview.png?raw=true" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://irmadel.github.io/Arquivo-da-Teologia-da-Liberta-o/index.html" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Com amor, bruxaria" />
+<meta name="twitter:description" content="Explore textos, autores e documentos históricos da Teologia da Libertação." />
+<meta name="twitter:image" content="https://github.com/IrmAdel/Arquivo-da-Teologia-da-Liberta-o/blob/main/preview.png?raw=true" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(to bottom, #000000, #1a1a1a, #333333);
+      color: #f5f5f5;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      background-color: rgba(0, 0, 0, 0.4);
+      padding: 0.5rem 1rem;
+      display: flex;
+      align-items: center;
+      z-index: 1000;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    }
+
+    /* Logo no canto esquerdo */
+    #logo {
+      height: 80px;
+      cursor: pointer;
+    }
+
+    /* Container dos links para centralizar */
+    #nav-links {
+      display: flex;
+      gap: 2rem;
+      margin: 0 auto; /* centraliza horizontalmente */
+    }
+
+    /* Estilo dos links */
+    #nav-links a {
+      color: #d4af37;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1rem;
+      transition: color 0.3s ease;
+    }
+
+    #nav-links a:hover {
+      color: #fffacd;
+    }
+
+    header {
+      text-align: center;
+      padding: 3rem 1rem 2rem;
+    }
+
+    header h1 {
+      font-family: 'EB Garamond', serif;
+      font-size: 3.5rem;
+      letter-spacing: 2px;
+      color: #d4af37;
+      margin: 0;
+      text-transform: uppercase;
+    }
+
+    header h2 {
+      font-size: 1.4rem;
+      font-weight: 400;
+      color: #dddddd;
+      margin: 0.4rem 0;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      color: #cccccc;
+      font-style: italic;
+      margin-top: 0.8rem;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    #posts-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    #posts-header h2 {
+      color: #d4af37;
+      font-family: 'EB Garamond', serif;
+      margin: 0;
+      font-size: 2rem;
+    }
+
+    #filters {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    select, input[type="search"] {
+      padding: 0.4rem 0.8rem;
+      border-radius: 5px;
+      border: none;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+
+    select {
+      background-color: #1c1c1c;
+      color: #d4af37;
+      cursor: pointer;
+    }
+
+    input[type="search"] {
+      min-width: 180px;
+      color: #000;
+    }
+
+    article.post {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      margin-bottom: 1.5rem;
+    }
+
+    article.post h3 {
+      color: #d4af37;
+      font-family: 'EB Garamond', serif;
+      margin-top: 0;
+    }
+
+    article.post small {
+      color: #f0d98c;
+      display: block;
+      margin-bottom: 0.8rem;
+    }
+
+    article.post p {
+      color: #dddddd;
+      margin-top: 0;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2.4rem;
+      }
+
+      header h2 {
+        font-size: 1.1rem;
+      }
+
+      #nav-links {
+        gap: 1rem;
+      }
+
+      nav {
+        padding: 0.5rem;
+      }
+
+      #logo {
+        height: 60px;
+      }
+
+      #nav-links a {
+        font-size: 0.9rem;
+      }
+
+      #posts-header h2 {
+        font-size: 1.6rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <img
+      src="https://media.discordapp.net/attachments/1326676553035157604/1400991262806511747/Black_and_White_Minimalist_Professional_Initial_Logo-removebg-preview_1.png?ex=688ea64a&is=688d54ca&hm=5768be8a58ae65e83419f6bc5c2dfb30111efee1c1873d21b40fe23bf62dd4ef&=&format=webp&quality=lossless&width=375&height=375"
+      alt="Logo Com Amor Bruxaria"
+      id="logo"
+    />
+    <div id="nav-links">
+      <a href="index.html">Início</a>
+      <a href="https://discord.gg/5eAHRAM67A">Servidor Principal</a>
+      <a href="https://discord.gg/EhdAfZqmEH">Servidor de Estudos</a>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Com amor, bruxaria</h1>
+    <p>"Entre o visível e o invisível, mora o encanto"</p>
+  </header>
+
+  <main id="inicio">
+    <div id="posts-header">
+      <h2>Postagens</h2>
+      <div id="filters">
+        <select id="filter-time" aria-label="Filtro de tempo">
+          <option value="all">Todos os tempos</option>
+          <option value="30days">Últimos 30 dias</option>
+          <option value="6months">Últimos 6 meses</option>
+          <option value="1year">Último ano</option>
+        </select>
+
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Pesquisar artigos..."
+          aria-label="Pesquisar artigos"
+        />
+      </div>
+    </div>
+
+    <article class="post" data-date="2025-08-01">
+      <h3>Ervas de proteção: do banho ao defumador</h3>
+      <small>01 de agosto de 2025</small>
+      <p>
+        Conheça algumas das ervas mais usadas na bruxaria tradicional para banhos, defumações e encantamentos de proteção. Alecrim, arruda, lavanda e muito mais.
+      </p>
+    </article>
+
+    <article class="post" data-date="2025-07-15">
+      <h3>A lua e seus feitiços</h3>
+      <small>15 de julho de 2025</small>
+      <p>
+        Cada fase lunar carrega uma energia específica. Saiba como alinhar seus rituais com a lua nova, crescente, cheia e minguante.
+      </p>
+    </article>
+  </main>
+
+  <script>
+    (() => {
+      const filterTime = document.getElementById('filter-time');
+      const searchInput = document.getElementById('search-input');
+      const posts = Array.from(document.querySelectorAll('article.post'));
+
+      function daysSince(dateString) {
+        const today = new Date();
+        const postDate = new Date(dateString);
+        const diffTime = today - postDate;
+        return diffTime / (1000 * 60 * 60 * 24);
+      }
+
+      function filterPosts() {
+        const timeValue = filterTime.value;
+        const searchText = searchInput.value.trim().toLowerCase();
+
+        posts.forEach(post => {
+          const dateStr = post.getAttribute('data-date');
+          const daysDiff = daysSince(dateStr);
+
+          let showByTime = false;
+          switch (timeValue) {
+            case '30days':
+              showByTime = daysDiff <= 30;
+              break;
+            case '6months':
+              showByTime = daysDiff <= 183;
+              break;
+            case '1year':
+              showByTime = daysDiff <= 365;
+              break;
+            default:
+              showByTime = true;
+          }
+
+          const textContent = (post.textContent || '').toLowerCase();
+          const showBySearch = textContent.includes(searchText);
+
+          post.style.display = (showByTime && showBySearch) ? '' : 'none';
+        });
+      }
+
+      filterTime.addEventListener('change', filterPosts);
+      searchInput.addEventListener('input', filterPosts);
+      filterPosts();
+    })();
+  </script>
+
+</body>
+</html>
