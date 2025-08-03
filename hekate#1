@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Título da Postagem</title>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/png" sizes="512x512" href="favicon.png">
+  <meta property="og:title" content="Hekate" />
+  <meta property="og:description" content="Estudos sobre bruxaria Hekatina, Hekate, cultos, livros e etc." />
+  <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzqtDXmKcBCgMoEorBMkcvXoXNHJ9_tQQGA&s" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="URL_COMPLETA_DA_POSTAGEM" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Hekate - Diario de Estudos" />
+  <meta name="twitter:description" content="Estudos sobre bruxaria Hekatina, Hekate, cultos, livros e etc." />
+  <meta name="twitter:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzqtDXmKcBCgMoEorBMkcvXoXNHJ9_tQQGA&s" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(to bottom, #000000, #1a1a1a, #333333);
+      color: #f5f5f5;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    header h1 {
+      font-family: 'EB Garamond', serif;
+      font-size: 3rem;
+      color: #d4af37;
+      margin: 0.5rem 0;
+    }
+    header small {
+      color: #ccc;
+      font-style: italic;
+    }
+    article {
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.7;
+    }
+    article p {
+      margin-bottom: 1.5rem;
+    }
+    a.voltar {
+      display: inline-block;
+      margin-top: 2rem;
+      color: #d4af37;
+      text-decoration: none;
+    }
+    a.voltar:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hekate</h1>
+    <small>17/07/2025</small>
+  </header>
+
+  <article>
+    <p>Hekate não se resume só a: deusa grega (sem origem na Grécia), deusa negra, rainha das bruxas.</p>
+    <p>A visão de Hekate mudou bastante ao longo do tempo, e os estudiosos a definem em três partes. Primeiramente, ela surge como uma Grande Deusa com atributos solares, diferente de hoje, conectada com encruzilhadas triplas. Temos o Hino à Hekate; neste hino, Hesíodo conta que Hekate é filha única da união entre os deuses Astéria (deusa das estrelas cadentes e das divinações noturnas) e Perses (deus da destruição). Apesar de existirem mais versões, essa é a mais aceita pelos devotos.</p>
+    <p>Ela também é descrita como muito honrada dentre os deuses imortais, e até mesmo Zeus concedeu a ela parte do céu, da terra e do mar infecundo (seus três reinos). Na Teogonia, é descrito que Hekate oferece ajuda a quem ela quer, e a muitos ela torna menores. Aqui também ela é conectada com o deus Hermes, e juntos eles aumentam o rebanho de bois, cabras e ovelhas. Hesíodo conta que Hekate, desde o começo, é nutriz dos jovens (ligada ao parto e às crianças).</p>
+    <p>Sua segunda fase começa no Helenismo e etc., sendo importante nesse período os papiros (Papiros Mágicos Gregos), cada um contendo feitiços, fórmulas, hinos e rituais. Nos papiros, Hekate é sincretizada com Perséfone, Selene, Ártemis e a deusa babilônica Ereshkigal, sendo, portanto, uma das divindades mais frequentemente invocadas. Aqui a deusa é vista como terrível e assustadora.</p>
+    <p>Hekate não é associada só às chaves, mistérios etc.; ela é MUITO mais que seus estereótipos. Estátuas de Hekate eram postas perto de encruzilhadas e entradas das cidades, como guardiã dos portais e dos caminhos.</p>
+    <p>A primeira representação da deusa surge em 430 a.C. (não exatamente!), pelo escultor grego Alcamenes; é bem mais recente comparado à Hekate. Hekate sempre tinha uma forma, não se sabe o porquê, mas há suspeitas por ela ser retratada com encruzilhadas triplas.</p>
+    <p>Hekate é uma deusa negra? (Deusas negras são aquelas com aspectos de sombras, morte, noite, guerra, sexualidades e coisas negativas. Lembrete: as deusas negras, por assim dizer, NÃO se identificam só com esses aspectos! Além disso, a maioria dos artigos foi escrita por homens numa época em que tudo o feminino tinha visões horríveis, levando a más interpretações até hoje.) Hekate não se resume a esses aspectos.</p>
+    <p>Hekate e a deusa tríplice NÃO SÃO a mesma deusa, embora Hekate e a deusa tríplice tenham semelhanças notáveis. Acredita-se que Hekate é uma deusa originalmente trácia; seu culto foi incorporado na antiga Grécia, com registros em lugares onde hoje temos Turquia, Grécia, Líbia e Itália, mas a presença da deusa era quase inexistente em regiões mais isoladas do Império Grego.</p>
+    <p>Ainda na Grécia, em Atenas, toda noite de lua nova, pratos de comida eram preparados por pessoas ricas e deixados nas encruzilhadas; havia também sacrifícios de cães (principalmente pretos, filhotes e fêmeas), cordeiros pretos e mel. Antes de viajarem, os gregos pediam bênção a Hekate em um dos seus templos. Além disso, pequenas estátuas da deusa eram postas para evitar o mal.</p>
+    <p>Em um templo foram encontrados: Libação (vinho e azeite de oliva); Incensos (carvalho); Cura (erva-doce, efedra e artemísia); Vestes cerimoniais (linho); No chão do templo] junco e lírio-branco; e [no Bosque sagrado próximo ao templo] carvalho e sa.</p>
+    <p>Livro: Vale lembrar que cada pessoa tem experiências e visões únicas da deusa, portanto nem todas as bruxas ou bruxos veem Hekate da mesma forma que descreverei aqui; porém, minha tentativa é trazer uma visão bem ampla dela:</p>
+    <p>Hekate é a deusa dos três caminhos (Trioditis), tanto literal quanto simbolicamente: seu primeiro reino é o mundo inferior (Chthônian), o submundo, a terra, as emoções, representado pela cor preta. O segundo é o mundo médio (Einalian), nosso plano, o mar, as ações, representado pelo vermelho. Por fim, o mundo superior (Ourania), celestial, o céu, os pensamentos, representado pela cor branca. A junção desses três reinos forma a encruzilhada tripla, pois Hekate também está nos liminares, nos espaços entre uma coisa e outra, nas bordas.</p>
+    <p>Ela também guia e guarda os caminhos (Prôpólos e Phylákē, respectivamente), ao mesmo tempo em que é o próprio caminho (Enodía).
+    <p>Ela está diante dos portais entre os mundos (Própylia), e é a portadora de todas as chaves (Kleidoukhos), portanto é ela quem permite ou não o trânsito de todos os seres entre seus reinos.</p>
+    <p>Por estar às margens, a deusa é guardiã dos marginalizados, incluindo as bruxas e bruxos que transitam entre os mundos, além de ter conhecimento da magia e poder sob os espíritos em seus três reinos. Por consequência, ela é a Rainha das Bruxas.</p>
+    </p>Epítetos citados: Abronoe: graciosa. Admetos: inconquistável. Aenaos: eterna, sempre-fluindoAgallomenen . elaphoisi: regozijando-se em veados. Agia: sagrada, santa. Aglaos: radiante, brilhante, linda, agradável. Agriope: de olhos arregalados, rosto feroz, observadora-selvagem, voz selvagem. Aidonaea: do submundo. Aimopotis: bebedora de sangue, assassina. Aionaios: eterna. Aizeos: vigorosa. Akrie: extrema. Aktinochiatis: de cabelos radiantes. Aktiophis: (significado desconhecido). Alexeatis: que evita o mal. Alkimos: forte, robusta, corajosa, poderosa. Ambrotos: imortal. Ameibousa: aquela que se transforma. Amphiphaes: circuncidada. Amphiprosopos: face dupla. Amphistomos: duas bocas. Anassa: rainha. Anassa Eneroi: rainha dos mortos. Angelos: mensageira. Antaia: aquela que se encontra / se pede com orações. Aoroboros: devoradora dos mortos prematuros. Apanchomene: a pendurada. Aphrattos: aquela sem nome. Apotropaios: evitando, que evita. Archikos: real, nobre. Aregos: que ajuda. Ariste: a besta. Arkyia: que aprisiona. Astrodia: caminhante das estrelas. Atala: delicada. Atala Phroneousa: terna, afetuosa. Atasthalos: imprudente, presunçosa, perversa. Athanatos: imortal, de fama imortal. Autopheus: auto-gerada. Azonos: sem limites. Azostos: sem um cinto. Baridoukhos: a que segura o caixão. Basileia: rainha, princesa. Boopis: com olhos de vaca. Borborophorba: comedora de sujeira. Brimo: a raivosa, a terrível, de chamas crepitantes. Bythios: a do fundo / profundo. Charopos: feroz, severa, piscante, brilhante, de olhos azuis, do mar. Chrysopis: de rosto dourado. Chrysosandalos: de sandálias de ouro. Chrysosandaimopotichthonia: deusa do submundo usando sandálias de ouro e bebedora de sangue. Chrysostephanos: coroa dourada, coroada com esplendor. Chthonian: da terra. Dadophoros: portadora da tocha. Daeira: a sábia, professora. Daidalos: astuciosa. Damasandra: subjulgadora dos homens. Damnameneia: aquela que subjuga pela força. Daspleti: assustadora. Deichteira: professora. Deinos: terrível. Despoina: senhora. Dione: deusa Dione. Dodonie: de Dodona. Doloeis: astuta, astuciosa, sutil. Drakaina: serpente-dragão. Eidolios: fantasmagórica. Eileithyia: parteira. Einalian: do mar. Einodia Thygater Demetros: filha de Deméter, aquela que é do caminho. Ekdotis: doadora. Ekklesia: da assembleia. Elaphebolos: caçadora de cervos. Elateira: a que dirige, cocheira. Ellophonos: caçadora de veados. Empousa: empusa. Empylios: a do portal. Empyrios: empírica. Enodia: a do caminho. Ephthisikere: destruindo a morte. Epigeioi: da terra. Epiphanestate Thea: a deusa mais manifestada. Epipurgidia: da torre. Episkopos: guardiã, aquela que toma conta, supervisora. Epiteichea: a fortaleza. Erannos: adorável. Ergatis: energizadora. Erigeneia: filha da manhã. Erototokos: produtora / portadora de amor, aquela que dá amor. Eukoline: de temperamento bom. Eupatereia: nascida nobre / na nobreza. Eurippa: a que encontra cavalos. Eurostochos: ampla. Geneteira: mãe. Gigaessa: gigante. Gorgo: a sombria. Hecatoncheires: a de cem mãos. Hegemonen: guia. Hieros Pyr: fogo sagrado, chama sagrada. Hippokyon: égua, cavalo-cão. Hippoprosopos: face de cavalo. Hypolampteira: (significado desconhecido, provavelmente “a que brilha com a luz inferior”). Iokheaira: aquela que dispara flechas. Indalimos: bela. Kalligeneia: que tem lindos filhos. Kalliste: justa, honesta. Kapetoktypos: a que perturba a tumba, a que causa ruído de lamentação. Kardiodaitos: a que come corações, a que se alimenta do coração dos homens. Kareia: de Cária. Karko: Lâmia. Katachthonia: subterrânea. Kata(kam)psypsauchenos: pescoço dobrado para baixo que mostra. Keratopis: face com chifres. Keroeis: com chifres. Khthonia: do submundo, da terra. Kleidoukhos: guardiã das chaves. Klothaie: giradora do destino. Komas: da revelação. Kore: donzela. Kourotrophos: parteira, enfermeira dos jovens. Kratais: a forte, a das pedras. Krokopeplos: com manto de açafrão. Kydimos: gloriosa. Kynegetis: líder dos cães. Kynokephalos: cabeça de cão. Kynolygmate: a que uiva como um cão. Kyon Melaina: cão negro. Kyria: a poderosa, suprema. Laginitis: de Lagina. Lampadephoros: portadora da lâmpada, portadora da tocha, a que avisa do ataque noturno. Lampadios: portadora da tocha. Leaina: a leoa. Leontoukhos: a que segura um leão. Leukophryne: a de sobrancelhas brancas, da colina da sobrancelha branca. Limenitikos: do porto. Liparokrêdemnos: de tiara brilhante, de penteado brilhante. Lothaie: aquela com crista. Lyko: formato de lobo. Maera: reluzente. Makairapos: abençoada. Mastigophoros: portadora do chicote. Medusa: protetora. Meisoponeros: odiadora de vícios. Megiste: a maior. Melaine: negra. Melaneimon: folheada em preto, que veste preto. Melinoe: a calmante. Mene: lua. Mitrie: com uma faixa para a cabeça. Monogenes: filha única. Mormo: ela-monstro. Munychia: (significado desconhecido, provavelmente “de Munychia”). Nekyia: senhora dos cadáveres. Nerterios: infernal, do inferior. Nerteron Prytanin: senhora dos mortos. Nekuia: senhora dos cadáveres. Noeros: intelectual. Nomaios: pastoral. Nykhia: noturna, da noite. Nyktairodyteira: aquela que se levanta e se põe à noite. Nykteria: da noite. Nykti: da noite. Nyktipolos: a que vaga à noite. Nyktophaneia: a que brilha à noite. Nymphen: ninfa, noiva. Nyssa: objetivo, começo, ambição. Oistroplaneia: espalhadora da loucura. Olkitis: que lança espadas. Opaon: seguidora. Ophioplokamos: com cachos encaracolados/enrolados com serpentes. Oroboros: a que come a cauda. Ourania: celestial, do céu. Ouresiphoites: andarilha das montanhas. Paionios: curandeira. Pammetor: mãe de tudo. Pandamateira: domadora de tudo, toda-poderosa, subjulgadora de tudo. Pandina: (possivelmente algo sobre girar ou rodar, termo desconhecido). Pandoteira: doadora de tudo, generosa. Pangaios: universal. Panta ephepousa: (significado desconhecido). Panphorba: aquela que come tudo. Pantos Kosmou Kleidoukhos: guardiã das chaves do cosmos. Pantrophos: a que tudo nutre. Panupata: mais alta. Parthenos: virgem. Pasikratea: rainha universal. Pasimedousa: que decide sobre tudo. Patrogenes: gerada pelo pai. Pege: fonte. Pege Psychon: fonte das almas. Perseian: filha de Perses. Persephone: a que causa ou traz a morte. Persia: persa. Phaenno: brilhante. Phaesimbrotos: a que traz a luz. Pheraea: de Pheraea, filha de Zeus e Pheraea (filha de Aeolus). Phileremos: amante da solidão. Philoskylax: amante dos cães. Phoberos: assustadora. Phoebe: brilhante. Phoinikopeza: de caminhar ruidoso. Phos: luz sagrada. Phosphoros: portadora da luz. Photoplex: a que golpeia com luz. Phroune: ela-sapo. Phylake: guardiã, que assiste e guarda. Physis: natureza. Podarke: saltitante, leve. Polykleitos: muito renomada. Polyodynos: aquela que sofre, sofrendo de muitas dores. Polyonumos: muitos nomes. Presbeia: antiga. Prodomos: do vestíbulo, literalmente “atrás da casa”. Promethikos: com premeditação. Propolos: aquela que lidera, guia, companheira. Propolousa: guia, companheira, servidora. Propylaia: a que está antes do portal. Prothyraea: antes do portal. Protistos: primordial, a primeira. Psychopompe: guia da alma. Pyriboulos: do conselho do fogo. Pyridrakontozonos: cingida com serpentes ardentes. Pyripnoa: respirando fogo. Pyriphoitos: caminhante do fogo. Pyrphoros: portadora do fogo, portadora da tocha. Rexichthon: cortadora da terra. Rixipyle: ela que derruba os portões. Sarkophagos: comedora de carne. Skotia: do escuro, da escuridão. Skylakageia: (significado desconhecido, algo a ver com cães). Skylakitin: senhora dos cães. Soteira: salvadora, protetora. Speirodrakontozonos: rodeada por espirais de serpentes. Tartaroukhos: regente dos Tártaros. Taurodrakaina: touro-serpente, touro-dragão. Taurokarenos: cabeça de touro. Tauromorphos: formato de touro. Tauropolos: pastora de touros. Tauropos: rosto de touro. Tergeminus: de nascimento triplo. Terpsimbrotos: aquela que delicia os mortais, satisfaz os corações dos homens. Tetrakephalos: quatro cabeças. Tetraoditis: dos quatro caminhos. Tetraonymos: dos quatro nomes. Tetraprosopos / Tetraprosopeine: quatro cabeças. Thanategos: trazedora da morte. Thea Deinos: a deusa do medo. Therobromon: rugindo como uma fera, da cidade da fera. Theroktonos: matadora de feras. Thrinakia: com três pontas, de três extremos, tríplice. Tletos: paciente. Triaucheros: com três pescoços. Triceps: três formas. Trikephalos: três cabeças. Trikaranos: três cabeças. Triktypos: som triplo. Trimorphos: três formas. Trioditis: dos três caminhos, da encruzilhada tripla. Trionymos: três nomes. Triphthoggos: voz tripla, que tem três vozes. Trivia: dos três caminhos. Tymbidian: sepulcral. Zatheos: divina. Zerynthia: do monte Zeríntia. Zonodrakontos: coberta de serpentes, entrelaçada com serpentes. Zoogonos: semente da vida. Zootrophos: nutridora da vida.</p>
+
+
+    <a href="https://irmadel.github.io/com-amor-bruxaria/" class="voltar">&larr; Voltar para o início</a>
+  </article>
+</body>
+</html>
